@@ -1,0 +1,10 @@
+# Instalar com:  pip install -r requirements.txt
+# Versoes testadas em set/2026 (Python 3.11+)
+pandas>=2.2
+numpy>=1.26
+scipy>=1.12
+matplotlib>=3.8
+yfinance>=0.2.40
+networkx>=3.2
+requests>=2.31
+tqdm>=4.66
